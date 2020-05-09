@@ -1,10 +1,10 @@
 # CSDNBlog
 该资源主要是作者CSDN博客在线备份，均为PDF文件，包括C\C++、JAVA、PHP、HTML、C#等相关知识，希望对您有所帮助~
 
-具体内容如下；
+具体内容如下:
 
 <div align="center">
-   <img src="https://img-blog.csdnimg.cn/20190928195104203.png" width="60%" height="60%"
+   <img src="https://img-blog.csdnimg.cn/20190928195104203.png" width="60%" height="60%" />
 </div>
 
 
