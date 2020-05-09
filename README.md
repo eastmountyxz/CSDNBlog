@@ -1,12 +1,11 @@
 # CSDNBlog
-该资源主要是作者CSDN博客在线备份，均为PDF文件，包括C\C++、JAVA、PHP、HTML、C#等相关知识，希望对您有所帮助~
-
-具体内容如下:
+该资源主要是作者CSDN博客在线备份，均为PDF文件，包括C\C++、JAVA、PHP、HTML、C#、数据库等相关知识，希望对您有所帮助~
 
 <div align="center">
    <img src="https://img-blog.csdnimg.cn/20190928195104203.png" width="60%" height="60%" />
 </div>
 
+具体内容如下:
 
 ## HTML网页文章
 [JSP网站开发之HTML入门知识及常用标记符 （一）](https://blog.csdn.net/Eastmount/article/details/51971638) <br />
