@@ -23,6 +23,8 @@
 [[Echarts可视化] 二.php和ajax连接数据库实现动态数据可视化](https://blog.csdn.net/Eastmount/article/details/72847067) <br />
 [Echarts字体和线条颜色设置操作笔记](https://blog.csdn.net/Eastmount/article/details/52823548) <br />
 
+[[网站搭建] 阿里云搭建个人网站及域名绑定](https://blog.csdn.net/Eastmount/article/details/52866428) <br />
+[[网站搭建] 阿里云虚拟主机搭建及FTP文件上传](https://blog.csdn.net/Eastmount/article/details/52643702) <br />
 
 ## Java网站文章
 [Java+MyEclipse+Tomcat (一)配置过程及jsp网站开发入门](https://blog.csdn.net/Eastmount/article/details/45492065) <br />
@@ -69,9 +71,6 @@
 [[数据库] SQL语句select简单记录总结](https://blog.csdn.net/Eastmount/article/details/50528621) <br />
 [[数据库] SQL查询语句表行列转换及一行数据转换成两列](https://blog.csdn.net/Eastmount/article/details/50559008 ) <br />
 
-## 个人网站搭建
-[[网站搭建] 阿里云搭建个人网站及域名绑定](https://blog.csdn.net/Eastmount/article/details/52866428) <br />
-[[网站搭建] 阿里云虚拟主机搭建及FTP文件上传](https://blog.csdn.net/Eastmount/article/details/52643702) <br />
 
 
 
